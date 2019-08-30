@@ -1,4 +1,6 @@
 // Code DigitalClicker Component Here
+
+// this is not the same
 import React from 'react';
  
 class DigitalClicker extends React.Component {
